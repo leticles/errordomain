@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Authentication required to access this web pr0xy!"
-AuthUserFile /volume1/web/.htpasswd
-require valid-user
